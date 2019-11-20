@@ -1,3 +1,5 @@
+#comentarios.....
+
 nombre = input("Ingrese Nombre: ")
 edad = input("Ingrese edad: ")
 altura = input("Ingrese Altura: ")
